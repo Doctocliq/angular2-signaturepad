@@ -32,5 +32,8 @@
       }
     }
   },
-  "defaultProject": "angular2-signaturepad"
+  "defaultProject": "angular2-signaturepad",
+  "cli": {
+    "analytics": false
+  }
 }
